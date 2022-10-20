@@ -1,7 +1,7 @@
 const MAIN_ROUTE = [
     {
       name: 'MAIN_ROUTE',
-      path: '/testza',
+      path: '/',
       component: 'pages/index.vue',
     },
     {

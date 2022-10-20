@@ -66,7 +66,7 @@ export default {
   build: {
     transpile: ['vue-plugin-load-script'],
   },
-  server: {
-    port: 8000 // default: 3000
-  }
+  // server: {
+  //   port: 8000 // default: 3000
+  // }
 }

@@ -10,7 +10,7 @@
     "dev": "nuxt",
     "build": "nuxt build",
 
-    "start": "nuxt generate start & nuxt generate",
+    "start": "nuxt generate  & nuxt start",
     "generate": "nuxt generate"
   },
   "dependencies": {
